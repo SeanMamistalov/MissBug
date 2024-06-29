@@ -12,28 +12,11 @@
     ]
   },
   {
-    "_id": "jkl012",
-    "title": "Broken links in navigation menu",
-    "description": "Several links in the navigation menu are broken, leading to 404 error pages.",
-    "severity": 4,
-    "createdAt": 1543293759454,
-    "labels": [
-      "high-priority",
-      "need-CR",
-      "dev-branch"
-    ]
-  },
-  {
     "_id": "mno345",
     "title": "Slow page load times",
     "description": "Pages are taking too long to load, which affects user experience and SEO rankings.",
-    "severity": 3,
-    "createdAt": 1543380159454,
-    "labels": [
-      "medium-priority",
-      "optimization",
-      "dev-branch"
-    ]
+    "severity": 4,
+    "createdAt": 1543380159454
   },
   {
     "_id": "pqr678",

@@ -1,14 +1,13 @@
 :root {
-  --clr1: rgb(96, 107, 91);
-  --clr2: rgb(120, 99, 110);
+  --clr1: rgb(34, 112, 147);          /* Dark Cyan */
+  --clr2: rgb(52, 152, 219);          /* Light Blue */
 
-  --clr1bg: rgb(153, 166, 149);
-  --clr1bg-light: rgb(205, 221, 200);
-  --clr2bg: rgb(233, 206, 221);
-  --clr2bg-light: rgb(253, 236, 246);
+  --clr1bg: rgb(125, 181, 246);       /* Light Blue Background */
+  --clr1bg-light: rgb(201, 228, 247); /* Lighter Blue Background */
+  --clr2bg: rgb(99, 189, 194);        /* Cool Green Background */
+  --clr2bg-light: rgb(172, 218, 222); /* Light Cyan Background */
 
-  --gray1: rgb(240, 240, 240);
-  --gray2: rgb(155, 155, 155);
-  --gray3: rgb(44, 44, 44);
-
-} 
+  --gray1: rgb(240, 240, 240);        /* Light Gray */
+  --gray2: rgb(155, 155, 155);        /* Medium Gray */
+  --gray3: rgb(44, 44, 44);           /* Dark Gray */
+}

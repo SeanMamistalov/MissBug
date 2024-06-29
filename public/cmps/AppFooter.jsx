@@ -8,9 +8,9 @@ export function AppFooter () {
     }, [])
 
     return (
-        <footer>
+        <footer className='app-footer'>
             <p>
-                coffeerights to all
+            &copy; 2024 Sean Mamistalov
             </p>
         </footer>
     )

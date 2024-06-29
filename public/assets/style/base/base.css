@@ -18,7 +18,7 @@ h4,
 h5,
 h6 {
     margin: .5em 0 .5em;
-    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Edu VIC WA NT Beginner', inherit;
 }
 
 p {
