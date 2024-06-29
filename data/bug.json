@@ -1,0 +1,81 @@
+[
+  {
+    "_id": "ghi789",
+    "title": "Missing alt text on images",
+    "description": "Several images across the site are missing alt text, which is important for accessibility.",
+    "severity": 5,
+    "createdAt": 1543207359454,
+    "labels": [
+      "critical",
+      "need-CR",
+      "dev-branch"
+    ]
+  },
+  {
+    "_id": "jkl012",
+    "title": "Broken links in navigation menu",
+    "description": "Several links in the navigation menu are broken, leading to 404 error pages.",
+    "severity": 4,
+    "createdAt": 1543293759454,
+    "labels": [
+      "high-priority",
+      "need-CR",
+      "dev-branch"
+    ]
+  },
+  {
+    "_id": "mno345",
+    "title": "Slow page load times",
+    "description": "Pages are taking too long to load, which affects user experience and SEO rankings.",
+    "severity": 3,
+    "createdAt": 1543380159454,
+    "labels": [
+      "medium-priority",
+      "optimization",
+      "dev-branch"
+    ]
+  },
+  {
+    "_id": "pqr678",
+    "title": "Incorrect footer information",
+    "description": "The contact information in the footer is outdated and needs to be updated.",
+    "severity": 2,
+    "createdAt": 1543466559454,
+    "labels": [
+      "low-priority",
+      "content-update",
+      "dev-branch"
+    ]
+  },
+  {
+    "_id": "stu901",
+    "title": "Profile picture upload fails",
+    "description": "Users are unable to upload a profile picture due to a server error.",
+    "severity": 1111,
+    "createdAt": 1543607359454
+  },
+  {
+    "_id": "stu901",
+    "title": "Forms not submitting correctly",
+    "description": "User forms are not being submitted properly, causing user frustration.",
+    "severity": 5,
+    "createdAt": 1543552959454,
+    "labels": [
+      "critical",
+      "need-CR",
+      "dev-branch"
+    ]
+  },
+  {
+    "_id": "vwx234",
+    "title": "Search functionality broken",
+    "description": "The search bar is not returning any results, even for valid queries.",
+    "severity": 4,
+    "createdAt": 1543639359454,
+    "labels": [
+      "high-priority",
+      "need-CR",
+      "dev-branch"
+    ]
+  }
+]
